@@ -99,42 +99,42 @@ aside .logo-wrapper img{
 }
 
 .btn.nav-item-wrapper .icon-wrapper .image.agents-image{
-    background-image: url("/assets/agents-white.png");
+    background-image: url("../assets/agents-white.png");
 }
 .btn.nav-item-wrapper.selected .icon-wrapper .image.agents-image{
-    background-image: url("/assets/agents-selected.png");
+    background-image: url("../assets/agents-selected.png");
 }
 
 
 .btn.nav-item-wrapper .icon-wrapper .image.vehicles-image{
-    background-image: url("/assets/car-white.png");
+    background-image: url("../assets/car-white.png");
 }
 .btn.nav-item-wrapper.selected .icon-wrapper .image.vehicles-image{
-    background-image: url("/assets/car-selected.png");
+    background-image: url("../assets/car-selected.png");
 }
 
 
 .btn.nav-item-wrapper .icon-wrapper .image.drivers-image{
-    background-image: url("/assets/drivers-white.png");
+    background-image: url("../assets/drivers-white.png");
 }
 .btn.nav-item-wrapper.selected .icon-wrapper .image.drivers-image{
-    background-image: url("/assets/drivers-selected.png");
+    background-image: url("../assets/drivers-selected.png");
 }
 
 
 .btn.nav-item-wrapper .icon-wrapper .image.cards-image{
-    background-image: url("/assets/cards-white.png");
+    background-image: url("../assets/cards-white.png");
 }
 .btn.nav-item-wrapper.selected .icon-wrapper .image.cards-image{
-    background-image: url("/assets/cards-selected.png");
+    background-image: url("../assets/cards-selected.png");
 }
 
 
 .btn.nav-item-wrapper .icon-wrapper .image.products-image{
-    background-image: url("/assets/products-white.png");
+    background-image: url("../assets/products-white.png");
 }
 .btn.nav-item-wrapper.selected .icon-wrapper .image.products-image{
-    background-image: url("/assets/products-selected.png");
+    background-image: url("../assets/products-selected.png");
 }
 
 
@@ -143,26 +143,26 @@ aside .logo-wrapper img{
 }
 
 .btn.cutomer-nav-item-wrapper .customer-icon-wrapper .image.transactions-image{
-    background-image: url("/assets/transactions-white.png");
+    background-image: url("../assets/transactions-white.png");
 }
 .btn.cutomer-nav-item-wrapper.selected .customer-icon-wrapper .image.transactions-image{
-    background-image: url("/assets/transactions-selected.png");
+    background-image: url("../assets/transactions-selected.png");
 }
 
 
 .btn.cutomer-nav-item-wrapper .customer-icon-wrapper .image.clients-image{
-    background-image: url("/assets/clients-white.png");
+    background-image: url("../assets/clients-white.png");
 }
 .btn.cutomer-nav-item-wrapper.selected .customer-icon-wrapper .image.clients-image{
-    background-image: url("/assets/clients-selected.png");
+    background-image: url("../assets/clients-selected.png");
 }
 
 
 .btn.cutomer-nav-item-wrapper .customer-icon-wrapper .image.suppliers-image{
-    background-image: url("/assets/suppliers-white.png");
+    background-image: url("../assets/suppliers-white.png");
 }
 .btn.cutomer-nav-item-wrapper.selected .customer-icon-wrapper .image.suppliers-image{
-    background-image: url("/assets/suppliers-selected.png");
+    background-image: url("../assets/suppliers-selected.png");
 }
 
 
